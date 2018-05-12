@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Paul-Jean_Toulet
     - http://en.wikipedia.org/wiki/Paul-Jean_Toulet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36482#La-jeune-fille-verte
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-06-20'
 gutenberg_type: Text
